@@ -7,7 +7,6 @@
 
 🔐 Cybersecurity professional with a strong interest in AWS cloud security and AI Security Engineering. Currently building hands-on projects focused on securing cloud infrastructure, analyzing threats, and applying security best practices in modern environments.
 
-This GitHub showcases my cybersecurity learning journey, technical projects, and ongoing transition toward cloud and AI security.
 ---------------------------------
 
 🚀 About Me
