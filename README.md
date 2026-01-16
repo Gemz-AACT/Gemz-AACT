@@ -5,54 +5,47 @@
 
 👋 Hi, I’m Maryssa | Cybersecurity Analyst
 
-🔐 Recent graduate passionate about protecting systems, analyzing threats, and building tools that make security stronger.
-💻 Skilled in Python, threat detection, vulnerability management, and hands-on testing in secure environments.
-📂 This GitHub is where I showcase my cybersecurity projects, tools, and learning journey.
+🔐 Cybersecurity professional with a strong interest in AWS cloud security and AI Security Engineering. Currently building hands-on projects focused on securing cloud infrastructure, analyzing threats, and applying security best practices in modern environments.
 
+This GitHub showcases my cybersecurity learning journey, technical projects, and ongoing transition toward cloud and AI security.
 ---------------------------------
 
 🚀 About Me
 
-🛡️ Cybersecurity Analyst with hands-on experience in vulnerability scanning, risk assessment, and incident response
-
-🐍 Python enthusiast, building security automation scripts & tools
-
-🌐 Familiar with SIEMs, network security, and secure lab testing (VirtualBox, Kali, Metasploitable)
-
-📖 Constantly learning about threat intelligence, red/blue team methodologies, and cloud security
+🛡️ Cybersecurity Analyst with experience in vulnerability assessment, risk analysis, and incident response fundamentals
+🐍 Python enthusiast building automation scripts for security use cases
+☁️ Actively developing skills in AWS cloud architecture and security
+🌐 Experience with secure lab environments (VirtualBox, Kali Linux, Metasploitable)
+📖 Continuously learning about cloud security, threat intelligence, and AI security concepts
 
 ---------------------------------
 
 🧑‍💻 Portfolio Projects
 
-Here are some of my highlighted projects:
-
-🔍 VulnScan
-
-A lightweight Python-based vulnerability scanner that detects open ports, grabs banners, and checks for known issues.
-Skills: Python, socket programming, vulnerability analysis
-
 🛡️ Security Lab Setup
-Documented step-by-step guides for setting up safe testing environments with VirtualBox, Kali Linux, and Metasploitable.
+
+Documented step-by-step guides for building safe testing environments using VirtualBox, Kali Linux, and vulnerable machines.
 Skills: Virtualization, penetration testing, lab environment design
 
 📊 Incident Response Playbook (in progress)
-A structured playbook with scripts and checklists for responding to common security incidents.
-Skills: Security operations, process documentation, automation
+
+A structured playbook with checklists and scripts for responding to common security incidents.
+Skills: Incident response, security operations, process documentation
+
+☁️ AWS Cloud Security Projects (coming soon)
+
+Hands-on projects focused on secure AWS infrastructure, IAM, networking, and cloud security best practices, with an emphasis on preparing for AI security workloads.
 
 ---------------------------------
 
 📈 Skills Snapshot
 
-🔐 Security Tools: Nmap, Wireshark, Burp Suite, Metasploit
-
-🐍 Programming: Python (automation, security tools)
-
-🌐 Networking: TCP/IP, ports & protocols, firewall rules
-
-☁️ Platforms: VirtualBox, Kali Linux, Windows Server
-
-📊 Other: Threat analysis, vulnerability management, SIEM basics
+🔐 Cybersecurity: Threat analysis, vulnerability management, incident response fundamentals, SIEM basics
+☁️ Cloud (AWS): AWS Cloud Practitioner (in progress), IAM basics, VPC fundamentals, secure cloud concepts
+🐍 Programming: Python (automation, security scripting)
+📊 Data & Analysis: Data analysis, data handling, analytical thinking (current role)
+🌐 Networking: TCP/IP, ports & protocols, firewall concepts
+🛠 Platforms & Tools: AWS (learning), VirtualBox, Kali Linux, Windows Server, Nmap, Wireshark, Burp Suite, Metasploit
 
 ---------------------------------
 
