@@ -86,7 +86,9 @@ TCP/IP, ports & protocols
 Network segmentation & firewall concepts
 
 ---------------------------------
+
 🛠 Tools & Platforms
+
 AWS
 Terraform
 Kali Linux
@@ -96,6 +98,7 @@ Nmap / Wireshark
 Metasploit
 VirtualBox
 Windows Server
+
 ---------------------------------
 
 📈 Currently Focused On
