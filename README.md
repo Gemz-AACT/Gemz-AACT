@@ -3,7 +3,7 @@
 </a>
 
 
-**👋 Hi, I’m Maryssa | Cybersecurity Analyst → Cloud & AI Security Engineer in progress
+👋 Hi, I’m Maryssa | Cybersecurity Analyst → Cloud & AI Security Engineer in progress
 
 🔐 I break things to understand them — then rebuild them securely, at scale in the cloud
 
