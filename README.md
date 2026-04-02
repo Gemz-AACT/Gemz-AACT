@@ -13,8 +13,6 @@ Currently focused on AWS Cloud Security, DevSecOps, and AI Security Engineering,
 
 🚀 About Me
 
-🚀 About Me
-
 🛡️ Cybersecurity professional with hands-on experience in:
 
 Vulnerability assessment & threat analysis
