@@ -97,12 +97,15 @@ Metasploit
 VirtualBox
 Windows Server
 ---------------------------------
+
 📈 Currently Focused On
 Advancing AWS Solutions Architect skills
 Building cloud security + AI security projects
 Expanding bug bounty and API testing capabilities
 Learning by building, breaking, and improving systems
+
 ---------------------------------
+
 📫 Let’s Connect
 
 💼 LinkedIn: www.linkedin.com/in/maryssa-leblanc-a599aa288
